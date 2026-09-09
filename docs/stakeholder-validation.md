@@ -1,7 +1,7 @@
 # Simulated Stakeholder Validation
 
 > [!NOTE]
-> The feedback below is simulated prototype validation feedback collected from synthetic stakeholder review sessions for SIH 2026.
+> The feedback below is simulated prototype validation feedback collected from synthetic stakeholder review sessions.
 
 ## 1. Simulated Chief Pharmacist Review
 - **Feedback**: "The transparent rule evidence ('Why?') feature provides crucial confidence for staff pharmacists before confirming a substitute. Having a mandatory reason for overrides ensures accountability."

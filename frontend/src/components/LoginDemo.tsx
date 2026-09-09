@@ -45,7 +45,7 @@ export const LoginDemo: React.FC<LoginDemoProps> = ({ onLogin }) => {
             <Activity className="w-7 h-7" />
           </div>
           <h1 className="text-2xl font-bold text-slate-100">Hospital Pharmacy Substitution Decision System</h1>
-          <p className="text-xs text-teal-400 font-mono">SIH 2026 PROTOTYPE — DEMO ACCESS ENVIRONMENT</p>
+          <p className="text-xs text-teal-400 font-mono">DEMO ACCESS ENVIRONMENT</p>
         </div>
 
         {/* Disclaimer Card */}

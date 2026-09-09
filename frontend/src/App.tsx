@@ -87,7 +87,7 @@ export const App: React.FC = () => {
       {/* Global Clinical Disclaimer Footer */}
       <footer className="bg-slate-900 border-t border-slate-800 py-4 px-4 text-center text-xs text-slate-500 space-y-1">
         <p className="font-semibold text-slate-400">
-          Hospital Pharmacy Substitution Decision Support Prototype — SIH 2026
+          Hospital Pharmacy Substitution Decision Support Prototype
         </p>
         <p>
           "Prototype for clinical decision support. Not intended for autonomous prescribing or dispensing."

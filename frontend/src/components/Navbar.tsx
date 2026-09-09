@@ -34,7 +34,7 @@ export const Navbar: React.FC<NavbarProps> = ({
       <div className="bg-gradient-to-r from-teal-900/80 via-slate-900 to-indigo-900/80 px-4 py-1.5 text-xs flex justify-between items-center border-b border-teal-500/20">
         <div className="flex items-center gap-2 text-teal-300 font-medium">
           <span className="inline-block w-2 h-2 rounded-full bg-teal-400 animate-pulse"></span>
-          <span>SIH 2026 PROTOTYPE — Clinical Decision Support System</span>
+          <span>Clinical Decision Support System</span>
           <span className="text-slate-400 hidden md:inline">| Not intended for autonomous prescribing or dispensing.</span>
         </div>
         <div className="flex items-center gap-3">
