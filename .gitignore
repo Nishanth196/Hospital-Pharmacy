@@ -16,3 +16,5 @@ frontend/build/
 .DS_Store
 # Windows
 Thumbs.db
+
+backend/hospital.db
