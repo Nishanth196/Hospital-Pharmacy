@@ -1,0 +1,3 @@
+id,patient_id,allergen,severity
+1,2,Ampicillin,HIGH
+2,10,Ampicillin,MEDIUM

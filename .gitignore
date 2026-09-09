@@ -1,0 +1,18 @@
+# Dependency directories
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.env
+.env.local
+# Build artifacts
+frontend/dist/
+frontend/build/
+# VS Code settings
+.vscode/
+# MacOS
+.DS_Store
+# Windows
+Thumbs.db
