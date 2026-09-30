@@ -1,0 +1,3 @@
+id,medicine_id,approval_required,rule_description,urgency_allowed,notes
+1,8,True,High-alert opioid: require prescriber sign-off,EMERGENCY,High risk narcotic
+2,7,True,Controlled substance: prescriber approval required,"ROUTINE,URGENT",Controlled drug

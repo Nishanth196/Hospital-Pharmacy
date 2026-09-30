@@ -1,6 +1,7 @@
 services:
   # Backend FastAPI Service
   - type: web
+<<<<<<< HEAD
     name: hospital-pharmacy-backend
     env: python
     region: oregon
@@ -25,3 +26,28 @@ services:
       - type: rewrite
         source: /*
         destination: /index.html
+=======
+    name: pharmacy-substitution-backend
+    env: python
+    region: singapore
+    buildCommand: "pip install -r backend/requirements.txt && python backend/seed.py"
+    startCommand: "uvicorn app.main:app --host 0.0.0.0 --port $PORT"
+    envVars:
+      - key: DATABASE_URL
+        value: sqlite:///./hospital.db
+      - key: ENVIRONMENT
+        value: production
+      - key: CORS_ORIGINS
+        value: "*"
+
+  # Frontend Static Web Service
+  - type: web
+    name: pharmacy-substitution-frontend
+    env: static
+    region: singapore
+    buildCommand: "cd frontend && npm install && npm run build"
+    staticPublishPath: "./frontend/dist"
+    envVars:
+      - key: VITE_API_BASE_URL
+        value: https://pharmacy-substitution-backend.onrender.com
+>>>>>>> 06d7a50b1e9874e1f3c047ce23b8ed89374ee878

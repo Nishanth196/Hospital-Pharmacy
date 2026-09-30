@@ -1,0 +1,3 @@
+id,medicine_id,alternative_medicine_id,approved,clinical_group,notes
+1,1,2,True,Penicillin Antibiotics,Standard generic substitution
+2,1,3,True,Cephalosporin Antibiotics,Cephalosporin option

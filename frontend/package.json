@@ -1,11 +1,19 @@
 {
   "name": "hospital-pharmacy-substitution-frontend",
   "private": true,
+<<<<<<< HEAD
   "version": "1.0.0",
+=======
+  "version": "0.1.0",
+>>>>>>> 06d7a50b1e9874e1f3c047ce23b8ed89374ee878
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
+<<<<<<< HEAD
+=======
+    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+>>>>>>> 06d7a50b1e9874e1f3c047ce23b8ed89374ee878
     "preview": "vite preview"
   },
   "dependencies": {
@@ -13,19 +21,32 @@
     "lucide-react": "^0.344.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+<<<<<<< HEAD
     "react-router-dom": "^6.22.3",
+=======
+>>>>>>> 06d7a50b1e9874e1f3c047ce23b8ed89374ee878
     "recharts": "^2.12.2",
     "tailwind-merge": "^2.2.1"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@types/node": "^20.11.24",
     "@types/react": "^18.2.64",
     "@types/react-dom": "^18.2.21",
+=======
+    "@types/react": "^18.2.66",
+    "@types/react-dom": "^18.2.22",
+>>>>>>> 06d7a50b1e9874e1f3c047ce23b8ed89374ee878
     "@vitejs/plugin-react": "^4.2.1",
     "autoprefixer": "^10.4.18",
     "postcss": "^8.4.35",
     "tailwindcss": "^3.4.1",
+<<<<<<< HEAD
     "typescript": "^5.3.3",
     "vite": "^5.1.4"
+=======
+    "typescript": "^5.2.2",
+    "vite": "^5.1.6"
+>>>>>>> 06d7a50b1e9874e1f3c047ce23b8ed89374ee878
   }
 }
