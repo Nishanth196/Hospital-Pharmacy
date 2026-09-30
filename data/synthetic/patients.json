@@ -1,0 +1,234 @@
+[
+  {
+    "patient_id": "PAT-1001",
+    "full_name": "James Smith",
+    "age": 38,
+    "gender": "Male",
+    "ward": "Cardiology Ward",
+    "egfr": 65.0,
+    "weight_kg": 69.0,
+    "pregnancy_status": false,
+    "conditions": []
+  },
+  {
+    "patient_id": "PAT-1002",
+    "full_name": "Mary Johnson",
+    "age": 52,
+    "gender": "Female",
+    "ward": "ICU",
+    "egfr": 22.0,
+    "weight_kg": 66.0,
+    "pregnancy_status": false,
+    "conditions": [
+      "Severe Chronic Kidney Disease"
+    ]
+  },
+  {
+    "patient_id": "PAT-1003",
+    "full_name": "John Williams",
+    "age": 45,
+    "gender": "Male",
+    "ward": "General Ward A",
+    "egfr": 65.0,
+    "weight_kg": 95.0,
+    "pregnancy_status": false,
+    "conditions": []
+  },
+  {
+    "patient_id": "PAT-1004",
+    "full_name": "Patricia Brown",
+    "age": 16,
+    "gender": "Female",
+    "ward": "Surgery Suite / OR",
+    "egfr": 65.0,
+    "weight_kg": 89.0,
+    "pregnancy_status": false,
+    "conditions": []
+  },
+  {
+    "patient_id": "PAT-1005",
+    "full_name": "Robert Jones",
+    "age": 74,
+    "gender": "Male",
+    "ward": "Pediatric Ward",
+    "egfr": 65.0,
+    "weight_kg": 53.0,
+    "pregnancy_status": false,
+    "conditions": [
+      "Hypertension"
+    ]
+  },
+  {
+    "patient_id": "PAT-1006",
+    "full_name": "Jennifer Garcia",
+    "age": 38,
+    "gender": "Female",
+    "ward": "Oncology Ward",
+    "egfr": 78.0,
+    "weight_kg": 66.0,
+    "pregnancy_status": false,
+    "conditions": []
+  },
+  {
+    "patient_id": "PAT-1007",
+    "full_name": "Michael Miller",
+    "age": null,
+    "gender": "Male",
+    "ward": "Orthopedic Ward",
+    "egfr": null,
+    "weight_kg": 84.0,
+    "pregnancy_status": false,
+    "conditions": []
+  },
+  {
+    "patient_id": "PAT-1008",
+    "full_name": "Linda Davis",
+    "age": 31,
+    "gender": "Female",
+    "ward": "Emergency Dept",
+    "egfr": 65.0,
+    "weight_kg": 87.0,
+    "pregnancy_status": false,
+    "conditions": []
+  },
+  {
+    "patient_id": "PAT-1009",
+    "full_name": "William Rodriguez",
+    "age": 52,
+    "gender": "Male",
+    "ward": "Outpatient Clinic",
+    "egfr": 88.0,
+    "weight_kg": 78.0,
+    "pregnancy_status": false,
+    "conditions": []
+  },
+  {
+    "patient_id": "PAT-1010",
+    "full_name": "Elizabeth Martinez",
+    "age": 52,
+    "gender": "Female",
+    "ward": "Telemetry Ward",
+    "egfr": 105.0,
+    "weight_kg": 89.0,
+    "pregnancy_status": false,
+    "conditions": []
+  },
+  {
+    "patient_id": "PAT-1011",
+    "full_name": "David Hernandez",
+    "age": 63,
+    "gender": "Male",
+    "ward": "Cardiology Ward",
+    "egfr": 65.0,
+    "weight_kg": 62.0,
+    "pregnancy_status": false,
+    "conditions": []
+  },
+  {
+    "patient_id": "PAT-1012",
+    "full_name": "Barbara Lopez",
+    "age": 74,
+    "gender": "Female",
+    "ward": "ICU",
+    "egfr": 42.0,
+    "weight_kg": 73.0,
+    "pregnancy_status": false,
+    "conditions": [
+      "Hypertension"
+    ]
+  },
+  {
+    "patient_id": "PAT-1013",
+    "full_name": "Richard Gonzalez",
+    "age": 63,
+    "gender": "Male",
+    "ward": "General Ward A",
+    "egfr": 78.0,
+    "weight_kg": 65.0,
+    "pregnancy_status": false,
+    "conditions": []
+  },
+  {
+    "patient_id": "PAT-1014",
+    "full_name": "Susan Wilson",
+    "age": 68,
+    "gender": "Female",
+    "ward": "Surgery Suite / OR",
+    "egfr": 65.0,
+    "weight_kg": 57.0,
+    "pregnancy_status": false,
+    "conditions": [
+      "Hypertension"
+    ]
+  },
+  {
+    "patient_id": "PAT-1015",
+    "full_name": "Joseph Anderson",
+    "age": 74,
+    "gender": "Male",
+    "ward": "Pediatric Ward",
+    "egfr": 65.0,
+    "weight_kg": 74.0,
+    "pregnancy_status": false,
+    "conditions": [
+      "Hypertension"
+    ]
+  },
+  {
+    "patient_id": "PAT-1016",
+    "full_name": "Jessica Thomas",
+    "age": 68,
+    "gender": "Female",
+    "ward": "Oncology Ward",
+    "egfr": 88.0,
+    "weight_kg": 68.0,
+    "pregnancy_status": false,
+    "conditions": [
+      "Hypertension"
+    ]
+  },
+  {
+    "patient_id": "PAT-1017",
+    "full_name": "Thomas Taylor",
+    "age": 24,
+    "gender": "Male",
+    "ward": "Orthopedic Ward",
+    "egfr": 105.0,
+    "weight_kg": 86.0,
+    "pregnancy_status": false,
+    "conditions": []
+  },
+  {
+    "patient_id": "PAT-1018",
+    "full_name": "Sarah Moore",
+    "age": 38,
+    "gender": "Female",
+    "ward": "Emergency Dept",
+    "egfr": 105.0,
+    "weight_kg": 57.0,
+    "pregnancy_status": false,
+    "conditions": []
+  },
+  {
+    "patient_id": "PAT-1019",
+    "full_name": "Charles Jackson",
+    "age": 16,
+    "gender": "Male",
+    "ward": "Outpatient Clinic",
+    "egfr": 92.0,
+    "weight_kg": 92.0,
+    "pregnancy_status": false,
+    "conditions": []
+  },
+  {
+    "patient_id": "PAT-1020",
+    "full_name": "Karen Martin",
+    "age": 31,
+    "gender": "Female",
+    "ward": "Telemetry Ward",
+    "egfr": 92.0,
+    "weight_kg": 88.0,
+    "pregnancy_status": false,
+    "conditions": []
+  }
+]

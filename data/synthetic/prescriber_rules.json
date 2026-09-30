@@ -1,0 +1,107 @@
+[
+  {
+    "rule_id": "PR-001",
+    "prescriber_id": "DOC-201",
+    "medicine_id": "MED-003",
+    "restriction_type": "NO_SUBSTITUTION",
+    "justification": "Patient stabilized on specific brand Warfarin; tight INR window"
+  },
+  {
+    "rule_id": "PR-002",
+    "prescriber_id": "DOC-202",
+    "medicine_id": "MED-006",
+    "restriction_type": "NO_SUBSTITUTION",
+    "justification": "Post-renal transplant graft protocol requires exact brand"
+  },
+  {
+    "rule_id": "PR-003",
+    "prescriber_id": "DOC-203",
+    "medicine_id": "MED-010",
+    "restriction_type": "SENIOR_APPROVAL_REQUIRED",
+    "justification": "Restricted narcotic protocol"
+  },
+  {
+    "rule_id": "PR-004",
+    "prescriber_id": "DOC-204",
+    "medicine_id": "MED-013",
+    "restriction_type": "SENIOR_APPROVAL_REQUIRED",
+    "justification": "Antimicrobial stewardship restricted agent"
+  },
+  {
+    "rule_id": "PR-005",
+    "prescriber_id": "DOC-205",
+    "medicine_id": "MED-016",
+    "restriction_type": "NO_SUBSTITUTION",
+    "justification": "Bipolar mood stabilizer narrow range"
+  },
+  {
+    "rule_id": "PR-006",
+    "prescriber_id": "DOC-206",
+    "medicine_id": "MED-017",
+    "restriction_type": "NO_SUBSTITUTION",
+    "justification": "Non-linear seizure control kinetics"
+  },
+  {
+    "rule_id": "PR-007",
+    "prescriber_id": "DOC-207",
+    "medicine_id": "MED-005",
+    "restriction_type": "RESTRICTED_TO_TIER_1",
+    "justification": "Strict cardiac glycoside bioequivalence requirement"
+  },
+  {
+    "rule_id": "PR-008",
+    "prescriber_id": "DOC-208",
+    "medicine_id": "MED-002",
+    "restriction_type": "RESTRICTED_TO_TIER_1",
+    "justification": "Restricted fluoroquinolone stewardship"
+  },
+  {
+    "rule_id": "PR-009",
+    "prescriber_id": "DOC-209",
+    "medicine_id": "MED-007",
+    "restriction_type": "RESTRICTED_TO_TIER_1",
+    "justification": "Cardiology formulary guideline"
+  },
+  {
+    "rule_id": "PR-010",
+    "prescriber_id": "DOC-210",
+    "medicine_id": "MED-015",
+    "restriction_type": "SENIOR_APPROVAL_REQUIRED",
+    "justification": "High GI bleeding risk in elderly cohort"
+  },
+  {
+    "rule_id": "PR-011",
+    "prescriber_id": "DOC-211",
+    "medicine_id": "MED-014",
+    "restriction_type": "NO_SUBSTITUTION",
+    "justification": "Fixed post-PCI anticoagulation protocol"
+  },
+  {
+    "rule_id": "PR-012",
+    "prescriber_id": "DOC-212",
+    "medicine_id": "MED-019",
+    "restriction_type": "SENIOR_APPROVAL_REQUIRED",
+    "justification": "Sepsis committee stewardship rule"
+  },
+  {
+    "rule_id": "PR-013",
+    "prescriber_id": "DOC-213",
+    "medicine_id": "MED-008",
+    "restriction_type": "RESTRICTED_TO_TIER_1",
+    "justification": "Lipid clinic secondary prevention target"
+  },
+  {
+    "rule_id": "PR-014",
+    "prescriber_id": "DOC-214",
+    "medicine_id": "MED-009",
+    "restriction_type": "RESTRICTED_TO_TIER_1",
+    "justification": "Acute decompensated heart failure guideline"
+  },
+  {
+    "rule_id": "PR-015",
+    "prescriber_id": "DOC-215",
+    "medicine_id": "MED-011",
+    "restriction_type": "RESTRICTED_TO_TIER_1",
+    "justification": "Post-chemotherapy emetic prophylaxis"
+  }
+]

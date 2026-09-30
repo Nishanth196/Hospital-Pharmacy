@@ -1,0 +1,162 @@
+[
+  {
+    "allergy_id": "ALL-001",
+    "patient_id": "PAT-1002",
+    "allergen": "penicillin",
+    "allergen_type": "DRUG_CLASS",
+    "severity": "CRITICAL",
+    "reaction": "Anaphylaxis and bronchospasm"
+  },
+  {
+    "allergy_id": "ALL-002",
+    "patient_id": "PAT-1003",
+    "allergen": "sulfa",
+    "allergen_type": "DRUG_CLASS",
+    "severity": "HIGH",
+    "reaction": "Severe cutaneous drug eruption"
+  },
+  {
+    "allergy_id": "ALL-003",
+    "patient_id": "PAT-1004",
+    "allergen": "ibuprofen",
+    "allergen_type": "ACTIVE_INGREDIENT",
+    "severity": "HIGH",
+    "reaction": "Angioedema"
+  },
+  {
+    "allergy_id": "ALL-004",
+    "patient_id": "PAT-1005",
+    "allergen": "morphine",
+    "allergen_type": "ACTIVE_INGREDIENT",
+    "severity": "HIGH",
+    "reaction": "Severe hypotension and urticaria"
+  },
+  {
+    "allergy_id": "ALL-005",
+    "patient_id": "PAT-1008",
+    "allergen": "ampicillin",
+    "allergen_type": "ACTIVE_INGREDIENT",
+    "severity": "CRITICAL",
+    "reaction": "Respiratory distress"
+  },
+  {
+    "allergy_id": "ALL-006",
+    "patient_id": "PAT-1009",
+    "allergen": "ciprofloxacin",
+    "allergen_type": "ACTIVE_INGREDIENT",
+    "severity": "MODERATE",
+    "reaction": "Hives and nausea"
+  },
+  {
+    "allergy_id": "ALL-007",
+    "patient_id": "PAT-1010",
+    "allergen": "naproxen",
+    "allergen_type": "ACTIVE_INGREDIENT",
+    "severity": "HIGH",
+    "reaction": "Bronchospasm"
+  },
+  {
+    "allergy_id": "ALL-008",
+    "patient_id": "PAT-1011",
+    "allergen": "cephalexin",
+    "allergen_type": "ACTIVE_INGREDIENT",
+    "severity": "CRITICAL",
+    "reaction": "Anaphylactic shock"
+  },
+  {
+    "allergy_id": "ALL-009",
+    "patient_id": "PAT-1012",
+    "allergen": "levofloxacin",
+    "allergen_type": "ACTIVE_INGREDIENT",
+    "severity": "MODERATE",
+    "reaction": "Rash and pruritus"
+  },
+  {
+    "allergy_id": "ALL-010",
+    "patient_id": "PAT-1013",
+    "allergen": "trimethoprim-sulfamethoxazole",
+    "allergen_type": "ACTIVE_INGREDIENT",
+    "severity": "CRITICAL",
+    "reaction": "Stevens-Johnson Syndrome history"
+  },
+  {
+    "allergy_id": "ALL-011",
+    "patient_id": "PAT-1014",
+    "allergen": "codeine",
+    "allergen_type": "ACTIVE_INGREDIENT",
+    "severity": "HIGH",
+    "reaction": "Laryngeal edema"
+  },
+  {
+    "allergy_id": "ALL-012",
+    "patient_id": "PAT-1015",
+    "allergen": "aspirin",
+    "allergen_type": "ACTIVE_INGREDIENT",
+    "severity": "HIGH",
+    "reaction": "Asthmatic exacerbation"
+  },
+  {
+    "allergy_id": "ALL-013",
+    "patient_id": "PAT-1016",
+    "allergen": "amoxicillin",
+    "allergen_type": "ACTIVE_INGREDIENT",
+    "severity": "CRITICAL",
+    "reaction": "Severe anaphylaxis"
+  },
+  {
+    "allergy_id": "ALL-014",
+    "patient_id": "PAT-1017",
+    "allergen": "cefepime",
+    "allergen_type": "ACTIVE_INGREDIENT",
+    "severity": "HIGH",
+    "reaction": "Generalized urticaria"
+  },
+  {
+    "allergy_id": "ALL-015",
+    "patient_id": "PAT-1018",
+    "allergen": "heparin",
+    "allergen_type": "ACTIVE_INGREDIENT",
+    "severity": "CRITICAL",
+    "reaction": "Heparin-induced thrombocytopenia (HIT)"
+  },
+  {
+    "allergy_id": "ALL-016",
+    "patient_id": "PAT-1019",
+    "allergen": "vancomycin",
+    "allergen_type": "ACTIVE_INGREDIENT",
+    "severity": "MODERATE",
+    "reaction": "Severe flushing and hypotension"
+  },
+  {
+    "allergy_id": "ALL-017",
+    "patient_id": "PAT-1020",
+    "allergen": "doxycycline",
+    "allergen_type": "ACTIVE_INGREDIENT",
+    "severity": "MILD",
+    "reaction": "Photosensitivity and rash"
+  },
+  {
+    "allergy_id": "ALL-018",
+    "patient_id": "PAT-1001",
+    "allergen": "penicillin",
+    "allergen_type": "DRUG_CLASS",
+    "severity": "CRITICAL",
+    "reaction": "Anaphylaxis"
+  },
+  {
+    "allergy_id": "ALL-019",
+    "patient_id": "PAT-1006",
+    "allergen": "iodinated contrast",
+    "allergen_type": "AGENT",
+    "severity": "MODERATE",
+    "reaction": "Flushing"
+  },
+  {
+    "allergy_id": "ALL-020",
+    "patient_id": "PAT-1007",
+    "allergen": "sulfa",
+    "allergen_type": "DRUG_CLASS",
+    "severity": "HIGH",
+    "reaction": "Erythema multiforme"
+  }
+]

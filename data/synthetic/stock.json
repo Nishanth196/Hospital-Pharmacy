@@ -1,0 +1,162 @@
+[
+  {
+    "stock_id": "STK-001",
+    "medicine_id": "ALT-001",
+    "medicine_name": "Ampicillin 500mg Oral",
+    "ward": "General Ward A",
+    "quantity": 120,
+    "in_stock": true
+  },
+  {
+    "stock_id": "STK-002",
+    "medicine_id": "ALT-002",
+    "medicine_name": "Cephalexin 500mg Oral",
+    "ward": "General Ward A",
+    "quantity": 85,
+    "in_stock": true
+  },
+  {
+    "stock_id": "STK-003",
+    "medicine_id": "ALT-003",
+    "medicine_name": "Levofloxacin 500mg Oral",
+    "ward": "Cardiology Ward",
+    "quantity": 40,
+    "in_stock": true
+  },
+  {
+    "stock_id": "STK-004",
+    "medicine_id": "ALT-004",
+    "medicine_name": "Warfarin Sodium (Generic) 5mg",
+    "ward": "Cardiology Ward",
+    "quantity": 60,
+    "in_stock": true
+  },
+  {
+    "stock_id": "STK-005",
+    "medicine_id": "ALT-005",
+    "medicine_name": "Metformin ER 500mg Oral",
+    "ward": "Outpatient Clinic",
+    "quantity": 200,
+    "in_stock": true
+  },
+  {
+    "stock_id": "STK-006",
+    "medicine_id": "ALT-006",
+    "medicine_name": "Digoxin (Generic Tier-1) 0.25mg",
+    "ward": "Cardiology Ward",
+    "quantity": 30,
+    "in_stock": true
+  },
+  {
+    "stock_id": "STK-007",
+    "medicine_id": "ALT-007",
+    "medicine_name": "Tacrolimus Generic 1mg",
+    "ward": "Oncology Ward",
+    "quantity": 15,
+    "in_stock": true
+  },
+  {
+    "stock_id": "STK-008",
+    "medicine_id": "ALT-008",
+    "medicine_name": "Enalapril 10mg Oral",
+    "ward": "General Ward A",
+    "quantity": 90,
+    "in_stock": true
+  },
+  {
+    "stock_id": "STK-009",
+    "medicine_id": "ALT-009",
+    "medicine_name": "Rosuvastatin 10mg Oral",
+    "ward": "Cardiology Ward",
+    "quantity": 75,
+    "in_stock": true
+  },
+  {
+    "stock_id": "STK-010",
+    "medicine_id": "ALT-010",
+    "medicine_name": "Torsemide 20mg IV",
+    "ward": "ICU",
+    "quantity": 50,
+    "in_stock": true
+  },
+  {
+    "stock_id": "STK-011",
+    "medicine_id": "ALT-011",
+    "medicine_name": "Hydromorphone 2mg IV",
+    "ward": "Surgery Suite / OR",
+    "quantity": 25,
+    "in_stock": true
+  },
+  {
+    "stock_id": "STK-012",
+    "medicine_id": "ALT-012",
+    "medicine_name": "Granisetron 1mg IV",
+    "ward": "Oncology Ward",
+    "quantity": 45,
+    "in_stock": true
+  },
+  {
+    "stock_id": "STK-013",
+    "medicine_id": "ALT-013",
+    "medicine_name": "Esomeprazole 40mg IV",
+    "ward": "ICU",
+    "quantity": 110,
+    "in_stock": true
+  },
+  {
+    "stock_id": "STK-014",
+    "medicine_id": "ALT-014",
+    "medicine_name": "Daptomycin 500mg IV",
+    "ward": "ICU",
+    "quantity": 18,
+    "in_stock": true
+  },
+  {
+    "stock_id": "STK-015",
+    "medicine_id": "ALT-015",
+    "medicine_name": "Heparin Sodium 5000 units SC",
+    "ward": "Surgery Suite / OR",
+    "quantity": 70,
+    "in_stock": true
+  },
+  {
+    "stock_id": "STK-016",
+    "medicine_id": "ALT-016",
+    "medicine_name": "Naproxen 500mg Oral",
+    "ward": "Orthopedic Ward",
+    "quantity": 140,
+    "in_stock": true
+  },
+  {
+    "stock_id": "STK-017",
+    "medicine_id": "ALT-017",
+    "medicine_name": "Unapproved Experimental Generic Penicillin-X",
+    "ward": "Central Depot",
+    "quantity": 0,
+    "in_stock": false
+  },
+  {
+    "stock_id": "STK-018",
+    "medicine_id": "ALT-018",
+    "medicine_name": "Moxifloxacin (Out of Stock Alternative)",
+    "ward": "General Ward A",
+    "quantity": 0,
+    "in_stock": false
+  },
+  {
+    "stock_id": "STK-019",
+    "medicine_id": "ALT-019",
+    "medicine_name": "Cefepime 1g IV",
+    "ward": "Emergency Dept",
+    "quantity": 35,
+    "in_stock": true
+  },
+  {
+    "stock_id": "STK-020",
+    "medicine_id": "ALT-020",
+    "medicine_name": "Doxycycline 100mg Oral",
+    "ward": "Outpatient Clinic",
+    "quantity": 80,
+    "in_stock": true
+  }
+]

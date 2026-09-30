@@ -1,0 +1,182 @@
+[
+  {
+    "medicine_id": "MED-001",
+    "name": "Amoxicillin 500mg Oral",
+    "active_ingredient": "amoxicillin",
+    "strength": "500mg",
+    "dosage_form": "Capsule",
+    "high_impact": false,
+    "formulary_status": "FORMULARY"
+  },
+  {
+    "medicine_id": "MED-002",
+    "name": "Ciprofloxacin 500mg Oral",
+    "active_ingredient": "ciprofloxacin",
+    "strength": "500mg",
+    "dosage_form": "Tablet",
+    "high_impact": false,
+    "formulary_status": "FORMULARY"
+  },
+  {
+    "medicine_id": "MED-003",
+    "name": "Warfarin 5mg Oral",
+    "active_ingredient": "warfarin",
+    "strength": "5mg",
+    "dosage_form": "Tablet",
+    "high_impact": true,
+    "formulary_status": "RESTRICTED"
+  },
+  {
+    "medicine_id": "MED-004",
+    "name": "Metformin 850mg Oral",
+    "active_ingredient": "metformin",
+    "strength": "850mg",
+    "dosage_form": "Tablet",
+    "high_impact": false,
+    "formulary_status": "FORMULARY"
+  },
+  {
+    "medicine_id": "MED-005",
+    "name": "Digoxin 0.25mg Oral",
+    "active_ingredient": "digoxin",
+    "strength": "0.25mg",
+    "dosage_form": "Tablet",
+    "high_impact": true,
+    "formulary_status": "RESTRICTED"
+  },
+  {
+    "medicine_id": "MED-006",
+    "name": "Tacrolimus 1mg Oral",
+    "active_ingredient": "tacrolimus",
+    "strength": "1mg",
+    "dosage_form": "Capsule",
+    "high_impact": true,
+    "formulary_status": "RESTRICTED"
+  },
+  {
+    "medicine_id": "MED-007",
+    "name": "Lisinopril 10mg Oral",
+    "active_ingredient": "lisinopril",
+    "strength": "10mg",
+    "dosage_form": "Tablet",
+    "high_impact": false,
+    "formulary_status": "FORMULARY"
+  },
+  {
+    "medicine_id": "MED-008",
+    "name": "Atorvastatin 20mg Oral",
+    "active_ingredient": "atorvastatin",
+    "strength": "20mg",
+    "dosage_form": "Tablet",
+    "high_impact": false,
+    "formulary_status": "FORMULARY"
+  },
+  {
+    "medicine_id": "MED-009",
+    "name": "Furosemide 40mg IV",
+    "active_ingredient": "furosemide",
+    "strength": "40mg",
+    "dosage_form": "Injection",
+    "high_impact": false,
+    "formulary_status": "FORMULARY"
+  },
+  {
+    "medicine_id": "MED-010",
+    "name": "Morphine 10mg/mL IV",
+    "active_ingredient": "morphine",
+    "strength": "10mg/mL",
+    "dosage_form": "Injection",
+    "high_impact": true,
+    "formulary_status": "RESTRICTED"
+  },
+  {
+    "medicine_id": "MED-011",
+    "name": "Ondansetron 4mg IV",
+    "active_ingredient": "ondansetron",
+    "strength": "4mg",
+    "dosage_form": "Injection",
+    "high_impact": false,
+    "formulary_status": "FORMULARY"
+  },
+  {
+    "medicine_id": "MED-012",
+    "name": "Pantoprazole 40mg IV",
+    "active_ingredient": "pantoprazole",
+    "strength": "40mg",
+    "dosage_form": "Injection",
+    "high_impact": false,
+    "formulary_status": "FORMULARY"
+  },
+  {
+    "medicine_id": "MED-013",
+    "name": "Vancomycin 1g IV",
+    "active_ingredient": "vancomycin",
+    "strength": "1g",
+    "dosage_form": "Injection",
+    "high_impact": true,
+    "formulary_status": "RESTRICTED"
+  },
+  {
+    "medicine_id": "MED-014",
+    "name": "Enoxaparin 40mg SC",
+    "active_ingredient": "enoxaparin",
+    "strength": "40mg",
+    "dosage_form": "Syringe",
+    "high_impact": false,
+    "formulary_status": "FORMULARY"
+  },
+  {
+    "medicine_id": "MED-015",
+    "name": "Ibuprofen 400mg Oral",
+    "active_ingredient": "ibuprofen",
+    "strength": "400mg",
+    "dosage_form": "Tablet",
+    "high_impact": false,
+    "formulary_status": "FORMULARY"
+  },
+  {
+    "medicine_id": "MED-016",
+    "name": "Lithium Carbonate 300mg Oral",
+    "active_ingredient": "lithium",
+    "strength": "300mg",
+    "dosage_form": "Tablet",
+    "high_impact": true,
+    "formulary_status": "RESTRICTED"
+  },
+  {
+    "medicine_id": "MED-017",
+    "name": "Phenytoin 100mg Oral",
+    "active_ingredient": "phenytoin",
+    "strength": "100mg",
+    "dosage_form": "Capsule",
+    "high_impact": true,
+    "formulary_status": "RESTRICTED"
+  },
+  {
+    "medicine_id": "MED-018",
+    "name": "Levothyroxine 50mcg Oral",
+    "active_ingredient": "levothyroxine",
+    "strength": "50mcg",
+    "dosage_form": "Tablet",
+    "high_impact": false,
+    "formulary_status": "FORMULARY"
+  },
+  {
+    "medicine_id": "MED-019",
+    "name": "Ceftriaxone 1g IV",
+    "active_ingredient": "ceftriaxone",
+    "strength": "1g",
+    "dosage_form": "Injection",
+    "high_impact": false,
+    "formulary_status": "FORMULARY"
+  },
+  {
+    "medicine_id": "MED-020",
+    "name": "Trimethoprim-Sulfamethoxazole Oral",
+    "active_ingredient": "trimethoprim-sulfamethoxazole",
+    "strength": "800/160mg",
+    "dosage_form": "Tablet",
+    "high_impact": false,
+    "formulary_status": "FORMULARY"
+  }
+]
