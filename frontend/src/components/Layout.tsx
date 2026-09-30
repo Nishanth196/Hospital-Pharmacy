@@ -44,7 +44,7 @@ export const Layout: React.FC = () => {
           <div className="flex items-center gap-4">
             <div className="flex items-center gap-1.5">
               <span className={`w-2 h-2 rounded-full ${backendHealthy ? 'bg-emerald-500 animate-pulse' : backendHealthy === false ? 'bg-rose-500' : 'bg-slate-300'}`}></span>
-              <span>Backend API: {backendHealthy ? 'Connected (8000)' : backendHealthy === false ? 'Disconnected' : 'Checking...'}</span>
+              <span>Backend API: {backendHealthy ? 'Connected' : backendHealthy === false ? 'Disconnected' : 'Checking...'}</span>
             </div>
             <span className="text-slate-300">|</span>
             <span>Local SQLite Ledger</span>
